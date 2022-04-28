@@ -7,6 +7,7 @@ class TreeNode(object):
 		self.left = None
 		self.right = None
 		self.height = 1
+		value = 10
 
 # AVL tree class which supports the
 # Insert operation
@@ -58,11 +59,11 @@ class AVL_Tree(object):
 	def leftRotate(self, z):
 
 		y = z.right
-		T2 = y.left
+		t2 = y.left
 
 		# Perform rotation
 		y.left = z
-		z.right = T2
+		z.right = t2
 
 		# Update heights
 		z.height = 1 + max(self.getHeight(z.left),
