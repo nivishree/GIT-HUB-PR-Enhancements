@@ -1,2 +1,3 @@
+print("This is a test file")  
 import os
-import math
+value = 10
