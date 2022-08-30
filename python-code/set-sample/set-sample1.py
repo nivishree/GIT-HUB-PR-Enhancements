@@ -1,2 +1,3 @@
 import os
-import math
+value = 20
+print(value) 
