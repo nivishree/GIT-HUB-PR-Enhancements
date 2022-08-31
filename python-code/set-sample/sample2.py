@@ -1,3 +1,3 @@
-import os
-value = 10
-print("Hello code world")
+import math
+value = 20
+print("Hello code world") 
