@@ -3,10 +3,10 @@ from pkg import *;
 value = 20;
 y = None
 print("Hello code world") 
-if input():
-    pass
+if input(): 
+    pass 
 else:
-    if len(input()) >= 10:
+    if len(input()) >= 10: 
         pass
-    else:
+    else: 
         pass
