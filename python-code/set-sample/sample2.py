@@ -1,7 +1,6 @@
-import math
-from pkg import *;
+import math; 
 value = 20;
-y = None
+y = None 
 print("Hello code world") 
 if input(): 
     pass 
