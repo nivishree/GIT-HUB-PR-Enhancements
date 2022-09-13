@@ -1,3 +1,11 @@
-import os
-value = 10
-print("Hello code world")
+import math; 
+value = 20;
+y = None 
+print("Hello code world") 
+if input(): 
+    pass 
+else:
+    if len(input()) >= 10: 
+        pass
+    else: 
+        pass
