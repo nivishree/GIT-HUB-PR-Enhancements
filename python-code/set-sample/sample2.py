@@ -1,3 +1,4 @@
-import os 
-value = 10;
+import math 
+value = 20;
 print("Hello code world") 
+y=none; 
